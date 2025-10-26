@@ -1,11 +1,17 @@
 # app_try
 
 TAMPILAN 
+
 PAGE 1
+
 <img width="637" height="930" alt="image" src="https://github.com/user-attachments/assets/439b16e0-11e2-448d-906d-bb2305ad90c5" />
+
 PAGE 2 
+
 <img width="618" height="899" alt="image" src="https://github.com/user-attachments/assets/0cf6b9ce-09c9-4d8c-8b31-b8c66bd8ba78" />
+
 PAGE 3
+
 <img width="624" height="894" alt="image" src="https://github.com/user-attachments/assets/2cf8bcde-dd57-4444-a731-8a959a657fcf" />
 
 
